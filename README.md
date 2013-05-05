@@ -15,7 +15,7 @@ youtube fixed at low quality
 Features :
 ==========
 
->>>   Governors   <<<
+Governors :
 
 Superbad
 Skywalker
@@ -39,7 +39,8 @@ Powersave
 LionHeart
 Performance
 
->>>    Schedulers   <<<
+
+Schedulers :
 
 Noop
 Deadline
@@ -48,7 +49,7 @@ BFQ
 VR
 SIO - Default
 
->>>  Extra Features   <<<
+Extra Features :
 
 ext4 support
 swap support
