@@ -8,8 +8,8 @@ Cyanogenmod 10.1 kernel source for htc wildfire s
 changelog :
 ===========
 
--wfs 2012 compatible
--youtube fixed at low quality
+- wfs 2012 compatible
+- youtube fixed at low quality
 
 
 
@@ -52,7 +52,7 @@ Schedulers :
 
 Extra Features :
 
--ext4 support
+- ext4 support
 - swap support
 - Zram that uses snappy
 - Google snappy compression/decompression
@@ -65,3 +65,6 @@ Extra Features :
 
 
 DEFAULT SETTINGS : 245-600 MHz (SmartassH3-sio)
+
+
+MY THREAD : http://forum.xda-developers.com/showthread.php?t=2263720
