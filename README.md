@@ -1,6 +1,12 @@
+Linux kernel release 2.6.xx <http://kernel.org/>
+kernel source-code : www.htcdev.com (modified by CyanogenMod)
+kernel toolchain : arm-eabi-4.4.3
+kernel config : msm7227_defconfig
+
+(using under GNU GPL v2 Licence)
+
 CM_FIRE_KERNEL
 ==============
-
 
 Cyanogenmod 10.1 kernel source for htc wildfire s
 =================================================
